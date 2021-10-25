@@ -183,7 +183,7 @@ int main ()
 		printf("3-- galerideki arac listesi \n");
 		printf("4-- galeriki arac sayisi \n");
 		printf("0-- cikis \n");
-				printf("seciminizi yapiniz \n");
+		printf("seciminizi yapiniz \n");
 
 		scanf("%d",&secim);
 		
